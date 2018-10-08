@@ -1,4 +1,5 @@
-# lbry-Docker
+# [ARCHIVED GIT REPOSITORY] lbry-Docker
+**Please refer to [lbryio/lbry-docker](https://github.com/lbryio/lbry-docker) for future changes.**
 
 ## Currently supported platforms
 
